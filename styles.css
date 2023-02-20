@@ -1,0 +1,26 @@
+.navbar{
+    background-color: rgb(58, 220, 120);
+    /* background-image: linear-gradient(to right,rgb(159, 217, 102),rgb(37, 144, 225)); */
+    border-radius: 30px;
+}
+
+.navbar ul{
+    overflow: auto;
+}
+.navbar li{
+    float: left;
+    list-style: none;
+    padding: 10px 10px;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 1000;
+    /* background-color: blue; */
+    color: rgb(28, 86, 233);
+    margin: 20px 20px;
+    border-radius: 30px;
+
+}
+.navbar li:hover a{
+    background-color: rgb(22, 143, 236);
+    border-radius: 20px;
+}
