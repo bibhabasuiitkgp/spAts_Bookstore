@@ -1,5 +1,5 @@
 .navbar{
-    background-color: rgb(223, 223, 19);
+    background-color: rgb(205, 205, 189);
     /* background-image: linear-gradient(to right,rgb(159, 217, 102),rgb(37, 144, 225)); */
     border-radius: 30px;
 }
@@ -23,4 +23,5 @@
 .navbar li:hover a{
     background-color: rgb(22, 143, 236);
     border-radius: 20px;
+    border-top: 10px;
 }
